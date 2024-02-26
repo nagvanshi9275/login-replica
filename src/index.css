@@ -1,0 +1,82 @@
+
+
+
+
+
+.container{
+display: flex;
+justify-content: center;
+
+width: 100vw;
+
+
+height: 90vh;
+margin-top: 20px;
+
+}
+
+
+@media(max-width: 320px){
+
+    #input1{
+    min-width: 59vw;
+    border: 2px solid red;
+
+
+    }
+
+    #input2{
+
+      min-width: 59vw;
+      border: 2px solid red;
+
+
+    }
+
+     #input3{
+
+      min-width: 59vw;
+      border: 2px solid red;
+
+
+     }
+
+
+
+
+}
+
+
+body{
+
+background-color: black;
+
+}
+
+
+
+.kritrim{
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+
+
+
+}
+
+
+h1{
+color: red;
+
+}
+
+
+
+
+
+
+
+
+
